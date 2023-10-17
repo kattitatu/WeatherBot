@@ -5,3 +5,4 @@ Tried to make it look good with embedded message stuff
 Will possibly complete !forecast, but the free version of API is a bit limited, so will have to see about it.
 Here's how it looks atm:
 ![image](https://github.com/kattitatu/WeatherBot/assets/146649947/dd0a1eb7-1f5e-4f23-8559-d619e7a379f8)
+![image](https://github.com/kattitatu/WeatherBot/assets/146649947/838f1134-fcb0-441d-8477-90b3729f370b)
